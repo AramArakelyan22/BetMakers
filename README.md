@@ -10,7 +10,7 @@ BetMakers uses a number of open source projects to work properly:
 * [Redux] - awesome tool for managinge the state
 * [Styled-Component] - great UI boilerplate for modern web apps
 * [axios] - a Javascript library used to make HTTP requests  
-* 
+
 And of course BetMakers itself is open source with a [https://github.com/AramArakelyan22/BetMakers.git]
  on GitHub.
 
