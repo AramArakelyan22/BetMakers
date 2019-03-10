@@ -1,0 +1,16 @@
+#react-paginate ul {
+    display: inline-block;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.pagination, .previous, .next, .break-me {
+    display: inline-block;
+    list-style-type: none;
+    padding: 5px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.pagination.active {
+    background-color: aliceblue;
+}
